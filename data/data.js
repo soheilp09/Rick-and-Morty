@@ -76,5 +76,5 @@ export const character = {
   ];
 
 
-  
-  alert("Just respect");
+
+console.log("JUST FLY");
