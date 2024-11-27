@@ -76,4 +76,5 @@ export const character = {
   ];
 
 
-  
+
+console.log("JUST FLY");
