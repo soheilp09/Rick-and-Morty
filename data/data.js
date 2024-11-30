@@ -36,6 +36,3 @@ export const character = {
       created: "2017-11-10T12:56:33.916Z",
     },
   ];
-
-
-newBalance
